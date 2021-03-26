@@ -8,6 +8,15 @@ body {
   font-size: 50px;
   color: white;
 }
+.header-secondary {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.header-sub {
+    font-size: 21px;
+    color:grey;
+  }
 .link {
   color: aquamarine;
   font-size: 16px;
